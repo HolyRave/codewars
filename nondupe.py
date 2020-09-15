@@ -9,5 +9,3 @@ def dup(arry):
         array2.append(newword)
         newword = ''
     return array2
-
-print(dup(["ccooddddddewwwaaaaarrrrsssss","piccaninny","hubbubbubboo"]))
