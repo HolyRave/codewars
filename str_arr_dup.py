@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/59f08f89a5e129c543000069
 def dup(arry):
     newword = ''
     array2 = []
